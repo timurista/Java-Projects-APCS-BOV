@@ -8,6 +8,8 @@ For students currently enrolled in AP Computer Science at Basis Oro Valley in Tu
 
 ## How to clone
 
+First, sign into github and setup a free acount. Then navigate back to this site and click on the "Fork" repository link.
+
 
 ## To receive feedback and grading
 
